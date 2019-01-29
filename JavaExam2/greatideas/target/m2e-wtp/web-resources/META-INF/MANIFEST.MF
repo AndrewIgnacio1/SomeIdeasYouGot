@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: greatideas
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: aignaci1
+Implementation-Vendor-Id: com.andrew.greatideas
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/greatideas
+Created-By: Maven Integration for Eclipse
+
